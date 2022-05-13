@@ -9,5 +9,5 @@ Graf przedstawia wykres wartości poszczególnych sensorów, do tabeli dodawane 
 Dane są pobierane poprzez API.
 
 ### Zespół:
--Mateusz Kawka
--Bartosz Mazur
+- Mateusz Kawka
+- Bartosz Mazur
