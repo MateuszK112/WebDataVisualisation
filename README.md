@@ -11,3 +11,8 @@ Dane są pobierane poprzez API.
 ### Zespół:
 - Mateusz Kawka
 - Bartosz Mazur
+
+### Użyte narzędzia:
+- Python
+- Dash
+- SQLite
